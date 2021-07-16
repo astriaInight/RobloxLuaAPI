@@ -1,4 +1,8 @@
--- Insert this into the workspace and run "loadstring(workspace.Build.Source)()" to build
+--[[
+	Insert this into the workspace, make sure the script is named "Build",
+	and run "loadstring(workspace.Build.Source)()" in the command bar
+	to build using the most recent files.
+]]
 
 -- Variables
 local urls = {
